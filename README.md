@@ -1,2 +1,1 @@
-HelloGitHub
-===========
+ ====> To jest plik Readme.txt <====
